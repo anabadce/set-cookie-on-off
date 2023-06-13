@@ -19,7 +19,7 @@ This extension doesn't collect any user information.
 
 ## Privacy Policy
 
-https://www.freeprivacypolicy.com/live/18189abc-159e-4957-9885-2a683fb4d1c0
+https://www.abadcer.com/custom/set-cookie-on-off-chrome-extension-privacy-policy.html
 
 ## Permissions justifications
 
